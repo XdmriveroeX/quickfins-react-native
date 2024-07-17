@@ -1,0 +1,40 @@
+# Dependencies
+/node_modules
+
+# Compiled output
+/android/app/build
+/ios/build
+/ios/Pods
+
+# Packager cache
+/.expo
+/.metro
+
+# Miscellaneous
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Watchman
+.watchmanconfig
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# react-native-debugger
+/react-native-debugger.app
+
+# OS generated files
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
